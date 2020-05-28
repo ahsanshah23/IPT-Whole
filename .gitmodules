@@ -1,0 +1,4 @@
+[submodule "ersal-cn"]
+	path = ersal-cn
+	url = https://github.com/ahsanshah23/ersal-cn
+	branch = master
